@@ -8,6 +8,6 @@ This is for use in my Data Visualization For All MOOC
 
 Link to Week 3 Exercises for Peer Review
 
-<iframe src=”https://juli2017.github.io/leaflet-map-simple” width=”90%” height=350></iframe>
+<iframe src=”https://juli2017.github.io/leaflet-map-simple” width=”90%” height="350"></iframe>
 
-<iframe src=”https://juli2017.github.io/highcharts-scatter-csv” width=”90%” height=350></iframe>
+<iframe src=”https://juli2017.github.io/highcharts-scatter-csv” width=”90%” height="350"></iframe>
