@@ -10,7 +10,7 @@ Link to Week 3 Exercises for Peer Review
 
 <iframe src="https://juli2017.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 rent
-<iframe src="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/pubchart?oid=2073830845&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/pubchart?oid=2073830845&format=interactive"></iframe>
 
 Test link to chart:
 <iframe src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1270431574&amp;format=interactive" width="90%" height="500"></iframe>
