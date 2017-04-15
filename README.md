@@ -15,6 +15,8 @@ Second Exercise
 Test link to chart:
 <iframe src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1270431574&amp;format=interactive" width="90%" height="500"></iframe>
 
+# Median Rent
+https://juli2017.github.io/SMCMedianRent/
 
 
 # News Articles
