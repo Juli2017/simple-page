@@ -9,6 +9,7 @@ This is for use in my Data Visualization For All MOOC
 Link to Week 3 Exercises for Peer Review
 
 <iframe src="https://juli2017.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
+
 rent
 <iframe src="https://docs.google.com/spreadsheets/d/1WiVJ3FvF3lXnHlf9Q6G85VlRKc4_BjzCSgVBTa7u9lI/pubchart?oid=2073830845&format=interactive"></iframe>
 
