@@ -15,4 +15,9 @@ Second Exercise
 Test link to chart:
 <iframe src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1270431574&amp;format=interactive" width="90%" height="500"></iframe>
 
-Newspaper Articles
+
+
+# News Articles
+* Good contextual overview: http://www.motherjones.com/mojo/2013/07/bay-area-transit-strike-why-it-matters
+* July 30 article on strike http://www.timesheraldonline.com/news/ci_23773852/unions-may-issue-72-hour-notice-strike-if
+* Article comparing transit salaries in other cities with BART http://www.mercurynews.com/bart/ci_23742276/bart-workers-paychecks-already-outpace-their-peers
