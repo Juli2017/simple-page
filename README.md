@@ -20,6 +20,6 @@ https://juli2017.github.io/SMCMedianRent/
 
 
 # News Articles
-* Good contextual overview: [Link Text] (http://www.motherjones.com/mojo/2013/07/bay-area-transit-strike-why-it-matters)
+* Good contextual overview: <a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
 * July 30 article on strike http://www.timesheraldonline.com/news/ci_23773852/unions-may-issue-72-hour-notice-strike-if
 * Article comparing transit salaries in other cities with BART http://www.mercurynews.com/bart/ci_23742276/bart-workers-paychecks-already-outpace-their-peers
