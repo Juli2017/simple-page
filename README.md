@@ -13,4 +13,4 @@ Second Exercise
 <iframe src="https://juli2017.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
 
 Test link to chart:
-<iframe width="699" height="432" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1270431574&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1270431574&amp;format=interactive"> width="699" height="432" seamless frameborder="0" scrolling="no" </iframe>
