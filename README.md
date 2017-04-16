@@ -9,6 +9,7 @@ This is for use in my Data Visualization For All MOOC
 Link to Week 3 Exercises for Peer Review
 
 <iframe src="https://juli2017.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
+
 # The Growth of IT in San Mateo County
 <a href="https://juli2017.github.io/SMCEvolutionofIT/">Ten years of Growth in IT Employment</a>
 
