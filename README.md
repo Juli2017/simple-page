@@ -3,7 +3,7 @@
 Link to website: https://juli2017.github.io/simple-page/
 
 This is my final story project for my Data Visualization For All MOOC
-Link to Week 3 Exercises for Peer Review
+
 
 <iframe src="https://juli2017.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 
