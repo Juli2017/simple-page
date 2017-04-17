@@ -5,7 +5,7 @@ This is my final story project for my Data Visualization For All MOOC
 
 
 
-San Mateo County is geographically diverse with coastal areas differing from inland areas. Between 2010 and 2014, San Mateo County added 54,600 new jobs but only added 2,200 new housing units. As a result, San Mateo County is tied with San Francisco and Marin Counties for having the highest rental costs in the U.S. Two metrics in the American Community Survey indicate the portion of income spent on housing by both renters and homeowners with a mortgage: 
+San Mateo County is geographically diverse with coastal areas differing from inland areas. Between 2010 and 2014, San Mateo County added 54,600 new jobs, many of them in the tech sector, but only added 2,200 new housing units. As a result, San Mateo County is tied with San Francisco and Marin Counties for having the highest rental costs in the U.S. Two metrics in the American Community Survey indicate the portion of income spent on housing by both renters and homeowners with a mortgage: 
 
 * GRAPI: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME    
 * SMOCAPI: SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME.   
