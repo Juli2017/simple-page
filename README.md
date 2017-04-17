@@ -1,5 +1,4 @@
 Link to website: https://juli2017.github.io/simple-page/  
-T 
 # Ten Years of Change in San Mateo County: 2006-2016  
 <iframe src="https://juli2017.github.io/leaflet-maps-with-google-sheets-polygons/" width="90%" height="600"></iframe>  
 Click between the different statistics to see the variation among zip codes in population density, median household income, or housing costs (GRAPI or SMOCAPI).  
