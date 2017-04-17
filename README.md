@@ -38,7 +38,7 @@ The highest category tracked by the ACS is for people spending 35% or more of th
 # Who can afford to live here?
 <a href="https://juli2017.github.io/SMCMedianRent/">How has job growth affected housing affordability?</a>
 
-# How is the population changing?
+# Who is coming and going?
 <a href="https://juli2017.github.io/PopulationChange/">How has job growth affected population dynamics?</a>
 
 
