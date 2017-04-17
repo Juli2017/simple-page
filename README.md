@@ -33,13 +33,13 @@ The highest category tracked by the ACS is for people spending 35% or more of th
 <a href="https://juli2017.github.io/WhoIsWorking">Trends in H1B Visas in San Mateo and adjacent Counties</a>
 
 # Where do we go to work?
-<a href="https://juli2017.github.io/SMCTraffic/">Trends in Commute Traffic</a>
+<a href="https://juli2017.github.io/SMCTraffic/">How is job growth affecting commute traffic?</a>
 
 # Who can afford to live here?
-<a href="https://juli2017.github.io/SMCMedianRent/">Trends in Median Rents SMC</a>
+<a href="https://juli2017.github.io/SMCMedianRent/">How has job growth affected housing affordability?</a>
 
 # How is the population changing?
-<a href="https://juli2017.github.io/PopulationChange/">Trends in migration SMC</a>
+<a href="https://juli2017.github.io/PopulationChange/">How has job growth affected population dynamics?</a>
 
 
 # News Articles
