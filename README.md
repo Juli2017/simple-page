@@ -1,6 +1,6 @@
 Link to website: https://juli2017.github.io/simple-page/  
 # Ten Years of Change in San Mateo County: 2006-2016  
-<iframe src="https://juli2017.github.io/leaflet-maps-with-google-sheets-polygons/" width="90%" height="80%"></iframe>  
+<iframe src="https://juli2017.github.io/leaflet-maps-with-google-sheets-polygons/" width="90%" height="600"></iframe>  
 Click between the different statistics to see the variation among zip codes in population density, median household income, or housing costs (GRAPI or SMOCAPI).  
 
 San Mateo County is geographically diverse with coastal areas differing from inland areas. Between 2010 and 2014, San Mateo County added 54,600 new jobs, many of them in the tech sector, but only added 2,200 new housing units. As a result, San Mateo County is tied with San Francisco and Marin Counties for having the highest rental costs in the U.S. Two metrics in the American Community Survey indicate the portion of income spent on housing by both renters and homeowners with a mortgage: 
