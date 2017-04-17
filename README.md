@@ -17,6 +17,9 @@ Test link to chart:
 # Who is getting the jobs?
 <a href="https://juli2017.github.io/WhoIsWorking">Trends in H1B Visas in San Mateo and adjacent Counties</a>
 
+# Where do we go to work?
+<a href="https://juli2017.github.io/SMCMedianRent/">Trends in Median Rents SMC</a>
+
 # Who can afford to live here?
 <a href="https://juli2017.github.io/SMCMedianRent/">Trends in Median Rents SMC</a>
 
