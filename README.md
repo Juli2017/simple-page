@@ -24,7 +24,7 @@ Test link to chart:
 <a href="https://juli2017.github.io/SMCMedianRent/">Trends in Median Rents SMC</a>
 
 # How is the population changing?
-<a href="https://juli2017.github.io/SMCMedianRent/">Trends in migration SMC</a>
+<a href="https://juli2017.github.io/PopulationChange/">Trends in migration SMC</a>
 
 
 # News Articles
