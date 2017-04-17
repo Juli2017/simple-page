@@ -5,7 +5,7 @@ Link to website: https://juli2017.github.io/simple-page/
 This is my final story project for my Data Visualization For All MOOC
 
 
-<iframe src="https://juli2017.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
+<iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="400"></iframe>
 
 # The Growth of IT in San Mateo County
 <a href="https://juli2017.github.io/SMCEvolutionofIT/">Ten years of Growth in IT Employment</a>
