@@ -1,5 +1,5 @@
-Link to website: https://juli2017.github.io/simple-page/
-This is my final story project for my Data Visualization For All MOOC
+Link to website: https://juli2017.github.io/simple-page/  
+This is my final story project for my Data Visualization For All MOOC  
 # Ten Years of Change in San Mateo County: 2006-2016
 
 
