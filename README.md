@@ -6,9 +6,8 @@ Source: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-count
 San Mateo County is geographically diverse with coastal areas differing from inland areas. Between 2010 and 2014, San Mateo County added 54,600 new jobs, but only added 2,200 new housing units. As a result, San Mateo County is tied with San Francisco and Marin Counties for having the highest rental costs in the U.S. The rapid growth of the IT sector is having a profound affect on the the daily lives of San Mateo County residents.  The jobs/housing imbalance along with growing income inequality and increasing use of foreign workers in the IT sector can make it feel like a zero-sum game with winners and losers. A recent poll showed that 40% of Bay Area residents are now wanting to leave the area.  
 Source: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>  
 Source: <a href="http://sf.curbed.com/2017/3/31/15140036/bay-area-leaving-poll-san-francisco">Forty percent of the Bay Area wants to leave, says new poll</a>
-# San Mateo County is Geographically Diverse
-
-<a href="https://juli2017.github.io/SMCGeographicDiversity/">Geographic variation in income and housing</a>
+# San Mateo County is Geographically Diverse  
+<a href="https://juli2017.github.io/SMCGeographicDiversity/">Geographic variation in income and housing</a>  
 
 # The Growth of IT in San Mateo County  
 
