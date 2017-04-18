@@ -9,7 +9,7 @@ Source: <a href="http://sf.curbed.com/2017/3/31/15140036/bay-area-leaving-poll-s
 # San Mateo County is Geographically Diverse  
 San Mateo County is geographically diverse with coastal areas historically differing from inland areas not just ecologically but also economically.  Housing and population densities have been higher on the east side of the county along the Peninsuala. Suburban versus urban.  Where the large employers are. Room for a diverse population socioeconomically. Tech Boom making the entire county more homogenous? Older people on fixed incomes and people in less skilled and lower salaried jobs could coeexist. 
 
-Most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County.  https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm
+<a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm">Most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County</a>
 
 
 <a href="https://juli2017.github.io/SMCGeographicDiversity/">Geographic variation in income and housing</a>  
