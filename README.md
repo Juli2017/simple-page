@@ -1,5 +1,5 @@
 Link to website: https://juli2017.github.io/simple-page/  
-# Ten Years of Change in San Mateo County: 2006-2016  
+# Ten Years of Tech Boom in San Mateo County: 2006-2016  
 "The Bay Area’s information-technology sector is gaining workers and wealth much faster even than the nation. But perhaps improbably, it is less-populous and -prominent San Mateo County, long squashed between its rivalrous county siblings, that emerges as poster child of swift change. Employment in its IT sector grew nearly 52 percent over five years, and the sector’s payroll almost tripled, expanding from $3.3 billion in 2009 to $11.8 billion in 2013, according to Census Bureau data."  
 Source: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>   
 
@@ -43,10 +43,8 @@ The highest category tracked by the ACS is for people spending 35% or more of th
 
 
 # News Articles
-## 2000
-* 23 September 2013: <a href="http://valleywag.gawker.com/a-tale-of-two-san-mateo-counties-1372560841">A Tale of Two San Mateo Counties</a>  
-
 * 4 June 2013: <a href="http://archives.sfexaminer.com/sanfrancisco/san-mateo-countys-economic-inequality-growing-new-report-says/Content?oid=2350398">San Mateo County’s economic inequality growing, new report says </a>
+* 23 September 2013: <a href="http://valleywag.gawker.com/a-tale-of-two-san-mateo-counties-1372560841">A Tale of Two San Mateo Counties</a>  
 * 27 September 2013: <a href="http://www.modernluxury.com/san-francisco/story/the-care-and-feeding-of-tech-boom">The Care and Feeding of a Tech Boom</a>  
 * 28 August 2014: <a href="http://www.mercurynews.com/2014/08/28/can-working-class-families-afford-to-live-in-san-mateo-county/">Can working-class families afford to live in San Mateo County? </a>  
 * 7 December 2016: <a href="http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/">More Bay Area residents struggling than poverty statistics indicate</a>  
