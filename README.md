@@ -45,5 +45,6 @@ Most of the new jobs in the region will not pay enough to afford a two-bedroom a
 * 28 August 2014: <a href="http://www.mercurynews.com/2014/08/28/can-working-class-families-afford-to-live-in-san-mateo-county/">Can working-class families afford to live in San Mateo County? </a>  
 * 22 July 2016: <a href="http://www.nbcbayarea.com/news/local/Facebook-not-good-neighbor-menlo-park-aclu-public-advocates-387805951.html">Facebook Not Being A Good Neighbor in Menlo Park, ACLU and Public Advocates Claim</a>  
 * 7 December 2016: <a href="http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/">More Bay Area residents struggling than poverty statistics indicate</a>  
+# Original Idea for the story
 
-
+# What I learned in this course
