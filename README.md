@@ -32,20 +32,23 @@ The highest category tracked by the ACS is for people spending 35% or more of th
 # Who is getting the jobs?
 <a href="https://juli2017.github.io/WhoIsWorking">Trends in H1B Visas in San Mateo and adjacent Counties</a>
 
-# Where do we go to work?
+# How do we get to work?
 <a href="https://juli2017.github.io/SMCTraffic/">How is job growth affecting commute traffic?</a>
 
-# Who can afford to live here?
+# Where can we afford to live?
 <a href="https://juli2017.github.io/SMCMedianRent/">How has job growth affected housing affordability?</a>
 
-# Who is coming and going?
+# How is our population changing?
 <a href="https://juli2017.github.io/PopulationChange/">How has job growth affected population dynamics?</a>
 
 
 # News Articles
 ## 2000
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* 23 September 2013: <a href="http://valleywag.gawker.com/a-tale-of-two-san-mateo-counties-1372560841">A Tale of Two San Mateo Counties</a>  
 
-* Leaving SMC: <a href="http://sf.curbed.com/2017/3/31/15140036/bay-area-leaving-poll-san-francisco">Forty percent of the Bay Area wants to leave, says new poll</a>
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* 4 June 2013: <a href="http://archives.sfexaminer.com/sanfrancisco/san-mateo-countys-economic-inequality-growing-new-report-says/Content?oid=2350398">San Mateo County’s economic inequality growing, new report says </a>
+* 27 September 2013: <a href="http://www.modernluxury.com/san-francisco/story/the-care-and-feeding-of-tech-boom">The Care and Feeding of a Tech Boom</a>  
+* 28 August 2014: <a href="http://www.mercurynews.com/2014/08/28/can-working-class-families-afford-to-live-in-san-mateo-county/">Can working-class families afford to live in San Mateo County? </a>  
+* 7 December 2016: <a href="http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/">More Bay Area residents struggling than poverty statistics indicate</a>  
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>  
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>  
