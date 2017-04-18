@@ -7,17 +7,6 @@ San Mateo County is geographically diverse with coastal areas differing from inl
 Source: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>  
 Source: <a href="http://sf.curbed.com/2017/3/31/15140036/bay-area-leaving-poll-san-francisco">Forty percent of the Bay Area wants to leave, says new poll</a>
 # San Mateo County is Geographically Diverse
-<iframe src="https://juli2017.github.io/leaflet-maps-with-google-sheets-polygons/" width="90%" height="600"></iframe>  
-Click between the different statistics to see the variation among zip codes in population density, median household income, or housing costs (GRAPI or SMOCAPI).  
-
-Two metrics in the American Community Survey indicate the portion of income spent on housing by both renters and homeowners with a mortgage: 
-
-* GRAPI: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME    
-* SMOCAPI: SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME.   
-
-The highest category tracked by the ACS is for people spending 35% or more of their income on housing and the fraction of renter and mortgage paying households in this category is shown on the map above using 2014 ACS data. Purple-shaded zip code polygons indicate that over 50% of the renter or mortgage-paying households are paying at least 35% of their income on housing.
- 
-
 
 # The Growth of IT in San Mateo County  
 
