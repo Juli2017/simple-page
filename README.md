@@ -36,7 +36,7 @@ The highest category tracked by the ACS is for people spending 35% or more of th
 <a href="https://juli2017.github.io/SMCTraffic/">How is job growth affecting commute traffic?</a>
 
 # Where can we afford to live?
-<a href="https://juli2017.github.io/SMCMedianRent/">How has job growth affected housing affordability?</a>
+<a href="https://juli2017.github.io/TrendsInRent/">How has job growth affected housing affordability?</a>
 
 # How is our population changing?
 <a href="https://juli2017.github.io/PopulationChange/">How has job growth affected population dynamics?</a>
