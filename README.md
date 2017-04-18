@@ -8,6 +8,8 @@ Source: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-p
 Source: <a href="http://sf.curbed.com/2017/3/31/15140036/bay-area-leaving-poll-san-francisco">Forty percent of the Bay Area wants to leave, says new poll</a>
 # San Mateo County is Geographically Diverse
 
+<a href="https://juli2017.github.io/SMCGeographicDiversity/">Geographic variation in income and housing</a>
+
 # The Growth of IT in San Mateo County  
 
 <iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="400"></iframe>  
