@@ -1,5 +1,5 @@
 Link to website: https://juli2017.github.io/simple-page/  
-# Ten Years of Tech Boom in San Mateo County: 2006-2016  
+# How is the Tech Boom Changing San Mateo County?  
 "The Bay Area’s information-technology sector is gaining workers and wealth much faster even than the nation. But perhaps improbably, it is less-populous and -prominent San Mateo County, long squashed between its rivalrous county siblings, that emerges as poster child of swift change. Employment in its IT sector grew nearly 52 percent over five years, and the sector’s payroll almost tripled, expanding from $3.3 billion in 2009 to $11.8 billion in 2013, according to Census Bureau data."  
 Source: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>   
 
