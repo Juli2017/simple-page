@@ -12,7 +12,7 @@ San Mateo County is <a href="https://juli2017.github.io/SMCGeographicDiversity/"
 <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm">Most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County (visualization by Farida Jhabvala)</a>
  
 
-# The Growth of IT in San Mateo County  
+# Where are the Major Employers in San Mateo County?  
 
 <iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="400"></iframe>  
 
@@ -22,13 +22,13 @@ San Mateo County is <a href="https://juli2017.github.io/SMCGeographicDiversity/"
 
 
 
-# Who is getting the jobs?
+# Who is getting the new jobs?
 <a href="https://juli2017.github.io/WhoIsWorking">Trends in H1B Visas in San Mateo and adjacent Counties</a>
 
-# How do we get to work?
+# How is job growth affecting how we get to work?
 <a href="https://juli2017.github.io/SMCTraffic/">How is job growth affecting commute traffic?</a>
 
-# Where can we afford to live?
+# How is job growth affecting where we can we afford to live?
 <a href="https://juli2017.github.io/TrendsInRent/">How has job growth affected housing affordability?</a>
 
 # How is our population changing?
