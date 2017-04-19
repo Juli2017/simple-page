@@ -20,17 +20,17 @@ If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/
 <a href="https://juli2017.github.io/SMCEvolutionofIT/">Timeline of the Spread of IT Employers in the County</a>  
 
 
-# Who is getting the new jobs?
+# Who is getting the tech jobs?
 <a href="https://juli2017.github.io/WhoIsWorking">Trends in H1B Visas in San Mateo and adjacent Counties</a>
 
 # How is job growth affecting how we get to work?
 <a href="https://juli2017.github.io/SMCTraffic/">How is job growth affecting commute traffic?</a>
 
-# How is job growth affecting where we can we afford to live?
-<a href="https://juli2017.github.io/TrendsInRent/">How has job growth affected housing affordability?</a>
+# How is tech job growth affecting where we can we afford to live?
+<a href="https://juli2017.github.io/TrendsInRent/">Increasing rents in San Mateo County</a>
 
 # How is our population changing?
-<a href="https://juli2017.github.io/PopulationChange/">How has job growth affected population dynamics?</a>
+<a href="https://juli2017.github.io/PopulationChange/">Recent changes in domestic and international migration</a>
 
 
 # News Articles
