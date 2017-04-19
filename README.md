@@ -45,6 +45,7 @@ San Mateo County is <a href="https://juli2017.github.io/SMCGeographicDiversity/"
 * 7 December 2016: <a href="http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/">More Bay Area residents struggling than poverty statistics indicate</a>  
 # Original Idea for the story  
 <img src="./img/StoryIdea.png" />  
+
 # What I learned in this course  
 I am experiencing the effects of the Tech Boom in San Mateo County as a long-term resident seeing rapid change around me every day.  The relocation of Facebook from Palo Alto to San Mateo County in 2011 is highly correlated with the rapid chages brought on by the tech boom throughout the county.  They are certainly not alone in driving the change, but their impact on the county is well-reported and controversial, so I focus on them in the story.   
 In telling this story I decided to blend data visulizations with newpaper stories and headlines to show how the story has evolved over time.  I had zero experiece with website creation prior to this course, but some experience with data visualization as a data analyst.  I have seen static graphs that show rising rents, increased traffic, the controversy over H1B workers in high tech, and the changing population characteristics of the place I live as more and more people are forced to move because they can no longer afford to live here.  
