@@ -9,7 +9,7 @@ Source: <a href="http://sf.curbed.com/2017/3/31/15140036/bay-area-leaving-poll-s
 # San Mateo County is Geographically Diverse  
 San Mateo County is <a href="https://juli2017.github.io/SMCGeographicDiversity/">spatially diverse</a> with coastal areas in the west having lower population density, lower housing density and lower median household income than the area to the east of the Santa Cruz Mountains near San Francisco Bay.  Suburban versus urban.  Where the large employers are. Room for a diverse population socioeconomically. Tech Boom making the entire county more homogenous? Older people on fixed incomes and people in less skilled and lower salaried jobs could coeexist. 
 
-<a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm">Most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County</a>
+<a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm">Most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County (visualization by Farida Jhabvala)</a>
  
 
 # The Growth of IT in San Mateo County  
