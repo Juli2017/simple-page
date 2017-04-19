@@ -14,7 +14,7 @@ If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/
 
 # Where are the Largest Tech Employers in San Mateo County?  
 
-<iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="500"></iframe>  
+<iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="600"></iframe>  
 
 
 <a href="https://juli2017.github.io/SMCEvolutionofIT/">Timeline of the Spread of IT Employers in the County</a>  
