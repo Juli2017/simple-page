@@ -1,7 +1,7 @@
 Link to website: https://juli2017.github.io/simple-page/  
 # How is the Tech Boom Changing San Mateo County?  
 "The Bay Area’s information-technology sector is gaining workers and wealth much faster even than the nation. But perhaps improbably, it is less-populous and -prominent San Mateo County, long squashed between its rivalrous county siblings, that emerges as poster child of swift change. Employment in its IT sector grew nearly 52 percent over five years, and the sector’s payroll almost tripled, expanding from $3.3 billion in 2009 to $11.8 billion in 2013, according to Census Bureau data."  
-Source: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>   
+Source: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>  
 
 Between 2010 and 2014, San Mateo County added 54,600 new jobs, but only added 2,200 new housing units. As a result, San Mateo County is tied with San Francisco and Marin Counties for having the highest rental costs in the U.S. The rapid growth of the IT sector is having a profound affect on the the daily lives of San Mateo County residents.  The jobs/housing imbalance along with growing income inequality and increasing use of foreign workers in the IT sector can make it feel like a zero-sum game with winners and losers. A recent poll showed that 40% of Bay Area residents are now wanting to leave the area.  
 Source: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>  
@@ -11,10 +11,12 @@ San Mateo County is spatially diverse <a href="https://juli2017.github.io/SMCGeo
 
 If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm">most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County (visualization by Farida Jhabvala)</a>, how will the county's demographic and socioeconomic diversity be impacted?
  
-It is a little ironic that an industry based on finding new ways to deliver interactions is so dependent on co-location to allow business interactions to occur. (Mike Richmond: 13 August 2015)<a href="https://www.quora.com/How-sustainable-are-the-rising-rents-and-property-prices-in-the-Bay-Area">County of San Mateo 2015-2017 Profile</a>  
+ 
 # Where are the Largest Tech Employers in San Mateo County?  
 
 <iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="600"></iframe>  
+It is a little ironic that an industry based on finding new ways to deliver interactions is so dependent on co-location to allow business interactions to occur. (Mike Richmond: 13 August 2015)<a href="https://www.quora.com/How-sustainable-are-the-rising-rents-and-property-prices-in-the-Bay-Area">County of San Mateo 2015-2017 Profile</a> 
+<a href="http://www.sfchronicle.com/business/article/Study-calls-on-big-tech-companies-to-move-closer-11085028.php">20 April 2017. Study calls on big tech companies to move closer to transit</a> 
 
 
 <a href="https://juli2017.github.io/SMCEvolutionofIT/">Timeline of the Spread of IT Employers in the County</a>  
