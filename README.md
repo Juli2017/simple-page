@@ -15,9 +15,10 @@ If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/
 # Where are the Largest Tech Employers in San Mateo County?  
 
 <iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="600"></iframe>  
-It is a little ironic that an industry based on finding new ways to deliver interactions is so dependent on co-location to allow business interactions to occur. (Mike Richmond: 13 August 2015)<a href="https://www.quora.com/How-sustainable-are-the-rising-rents-and-property-prices-in-the-Bay-Area">County of San Mateo 2015-2017 Profile</a> 
+
 <a href="http://www.sfchronicle.com/business/article/Study-calls-on-big-tech-companies-to-move-closer-11085028.php">20 April 2017. Study calls on big tech companies to move closer to transit</a> 
 
+It is a little ironic that an industry based on finding new ways to deliver interactions is so dependent on co-location to allow business interactions to occur. (Mike Richmond: 13 August 2015)<a href="https://www.quora.com/How-sustainable-are-the-rising-rents-and-property-prices-in-the-Bay-Area">County of San Mateo 2015-2017 Profile</a> 
 
 <a href="https://juli2017.github.io/SMCEvolutionofIT/">Timeline of the Spread of IT Employers in the County</a>  
 
