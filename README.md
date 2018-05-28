@@ -18,7 +18,7 @@ If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/
 
 San Mateo County Employer Locations
 
-<a href="https://www.sfgate.com/business/article/Facebook-is-outgrowing-its-hometown-Where-will-12942808.php?t=ce7301105c">26 May 2018. Facebook is outgrowing its hometown. Where will it go next?</a> 
+...the staggering growth of the technology companies, including giant firms such as Facebook, Apple and Google, is putting pressure on housing and — because the paucity of homes condemns workers to long commutes — traffic.<a href="https://www.sfgate.com/business/article/Facebook-is-outgrowing-its-hometown-Where-will-12942808.php?t=ce7301105c">26 May 2018. Facebook is outgrowing its hometown. Where will it go next?</a> 
 
 <a href="http://www.sfchronicle.com/business/article/Study-calls-on-big-tech-companies-to-move-closer-11085028.php">20 April 2017. Study calls on big tech companies to move closer to transit</a> 
 
