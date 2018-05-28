@@ -13,8 +13,8 @@ If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/
  
  
 # Where are the Largest Tech Employers in San Mateo County?
-Test
-<iframe src="https://juli2017.github.io/EmployerPointMap/" frameborder="0" width="90%" height="600"></iframe>  
+Test  
+<iframe src="https://juli2017.github.io/EmployerPointMap/" width="90%" height="600"></iframe>  
 San Mateo County Employer Locations
 
 <a href="http://www.sfchronicle.com/business/article/Study-calls-on-big-tech-companies-to-move-closer-11085028.php">20 April 2017. Study calls on big tech companies to move closer to transit</a> 
