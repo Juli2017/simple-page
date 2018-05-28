@@ -18,6 +18,8 @@ If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/
 
 San Mateo County Employer Locations
 
+<a href="https://www.sfgate.com/business/article/Facebook-is-outgrowing-its-hometown-Where-will-12942808.php?t=ce7301105c">26 May 2018. Facebook is outgrowing its hometown. Where will it go next?</a> 
+
 <a href="http://www.sfchronicle.com/business/article/Study-calls-on-big-tech-companies-to-move-closer-11085028.php">20 April 2017. Study calls on big tech companies to move closer to transit</a> 
 
 It is a little ironic that an industry based on finding new ways to deliver interactions is so dependent on co-location to allow business interactions to occur.<a href="https://www.quora.com/How-sustainable-are-the-rising-rents-and-property-prices-in-the-Bay-Area">(Mike Richmond: 13 August 2015)</a> 
