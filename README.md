@@ -12,7 +12,7 @@ San Mateo County is spatially diverse <a href="https://juli2017.github.io/SMCGeo
 If <a href="https://public.tableau.com/profile/publish/Job_growth_SV_and_nearby/Finalforpub#!/publish-confirm">most of the new jobs in the region will not pay enough to afford a two-bedroom apartment in Menlo Park and the rest of San Mateo County (visualization by Farida Jhabvala)</a>, how will the county's demographic and socioeconomic diversity be impacted?
  
  
-# Where are the Largest Tech Employers in San Mateo County?
+# Where are the Largest Tech Employers in San Mateo County?  
 
 <iframe src="https://juli2017.github.io/EmployerPointMap/" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px"width="90%" height="600"></iframe>  
 
