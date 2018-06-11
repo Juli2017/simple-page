@@ -1,5 +1,8 @@
 Link to website: https://juli2017.github.io/simple-page/  
 # How is the Tech Boom Changing San Mateo County?  
+"Walker calls San Francisco the “jewel in the crown of capitalism, the tech capital of the world and a gusher of wealth from the Silicon Gold Rush.” But there is a dark side to success on the Left Coast: extreme inequality, displacement, underpaid workers, and a relentless housing crisis. Why has the tech boom excluded so many people, particularly people of color and immigrants? What will it take to tackle these issues? "  
+Source: <a href="http://kalw.org/post/bay-areas-economic-boom-whos-been-left-behind/">Pictures of a Gone City: Tech and the Dark Side of Prosperity in the San Francisco Bay Area, Richard A. Walker, PM Press, 2018</a> 
+
 "The Bay Area’s information-technology sector is gaining workers and wealth much faster even than the nation. But perhaps improbably, it is less-populous and -prominent San Mateo County, long squashed between its rivalrous county siblings, that emerges as poster child of swift change. Employment in its IT sector grew nearly 52 percent over five years, and the sector’s payroll almost tripled, expanding from $3.3 billion in 2009 to $11.8 billion in 2013, according to Census Bureau data."  
 Source: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>  
 
